@@ -1,0 +1,23 @@
+
+
+body{
+    background: url("../images/background-flat.jpg");
+    background-size: 100% 100%;
+}
+
+.form{
+    position: relative;
+    background: #ffffff;
+    top:50px;    
+}
+
+img{
+    height: 100%;
+    width: 100%;
+    
+}
+
+.containerCalcetines{
+    height: 100px;
+    top:25px;
+}
